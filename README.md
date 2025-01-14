@@ -1,4 +1,4 @@
-# ShellyEMPro
+#  Calculation of energy consumption by country electric billing scheme for Shelly EM Pro
 
 The main script is <em>emdata_batch.sh</em>. As parameter it requires the path folder which contains the csv files exported by Shelly Pro EM over time. An example of exported csv is attached and contains the minute by minute energy consumption (i.e. <em>emdata_34987A450088_20250103.csv</em>). 
 
