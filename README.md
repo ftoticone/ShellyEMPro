@@ -25,3 +25,5 @@ Shelly Pro EM data converted and saved in emdata_converted_20250114132524.csv
 </code>
 
 The result of execution is saved in a csv file named by "emdata_converted". Attached file <em>emdata_converted_20250114132524.csv is the result of <em>emdata_34987A450088_20250103.csv</em>.
+
+For further information about italian eletric billing range please refer to the following <a href="https://www.arera.it/bolletta/glossario-dei-termini/dettaglio/fasce-orarie">link</a>
